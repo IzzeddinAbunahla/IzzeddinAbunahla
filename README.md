@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzzeddinAbunahla
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently studying at McMaster University (BEng)
+- 🌱 I’m currently studying at McMaster University (B.Eng)
 - 📫 How to reach me: izzeldin.nahla@outlook.com
 
 
